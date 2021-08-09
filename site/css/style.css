@@ -1,0 +1,20 @@
+body {
+	font-size: 16;
+	color: black;
+	background-color:#D4D4D4;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+background-color:#88E6F7;
+border-radius: 0;
+border: 0;
+
+}
+
+#logo-img {
+	background: url('../images/logoBside.png') no-repeat;
+	width: 150px;
+	height: 75px;
+	margin: 10px 15px 10px 0;
+}
